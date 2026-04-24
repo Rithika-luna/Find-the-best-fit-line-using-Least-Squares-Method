@@ -44,7 +44,8 @@ for i in range (len(X)):
 
 ## Output:
 
-<img width="1278" height="805" alt="ml-1" src="https://github.com/user-attachments/assets/f02d8d23-315e-41fe-be25-6779706675bb" />
+<img width="1278" height="805" alt="ml-1" src="https://github.com/user-attachments/assets/0a20ead4-ea2a-4f28-9dd6-6a370fda49b0" />
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
